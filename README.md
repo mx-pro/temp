@@ -31,6 +31,6 @@ synchronize_video_and_audio_time="No" mean for example video duration is 1 minut
 
 ## step 6 run this cell to download the video<br>
 ![Demo](https://github.com/mx-pro/temp/blob/main/7.PNG)
-## step 7 run to play the video on google colab using kora<br>
+## step 7 run the cell to play the video on google colab using kora<br>
 
 ![Demo](https://github.com/mx-pro/temp/blob/main/8.PNG)
